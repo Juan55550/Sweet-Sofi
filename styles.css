@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #F2C4DC;
+}
+
+p sub {
+    text-size-adjust: 5px;
+}
+
+p{
+    padding: 5px;
+    text-align: left;
+    font-family: "Andika", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cabeza{
+    width: 420px;
+    border-radius: 30px;
+    border: solid 1px #D9B0C6;
+    border-block-end-width: thick; 
+    background-color: #F2C4C5;      
+    margin: 5px auto;         /* Centrado horizontal: 0 arriba/abajo, auto lados */
+    padding: 20px;          /* Opcional: espacio interno */
+}   
+
+.name{
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+.padre{
+    display: inline-block;
+}
+
+.resalt{
+    color: #D95499;
+}
+
+strong {
+        font-family: "Andika", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+}
+
+#emo{
+    font-size: 80px;
+    text-align: right;
+
+}
+
+.galeria{
+    border-radius: 30px;
+    border: solid 5px #D12E82;
+    display: inline-block;
+}
