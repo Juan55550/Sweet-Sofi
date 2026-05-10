@@ -58,6 +58,7 @@ strong {
 }
 
 .galeria{
+    margin: 3px;
     border-radius: 30px;
     border: solid 5px #D12E82;
     display: inline-block;
